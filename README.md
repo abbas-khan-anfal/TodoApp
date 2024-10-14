@@ -57,7 +57,7 @@ To start the frontend application, navigate to the frontend directory and run:
 npm start
 ===========
 
-### 4. Access the Application
+# 4. Access the Application
 Once both servers are running, you can access your Todo app by opening your browser and navigating to:
 =====================
 http://localhost:3000
