@@ -1,7 +1,3 @@
-Here's a corrected version of your README with adjustments to the headings and some formatting improvements for better clarity:
-
----
-
 # MERN Stack Todo App
 
 ## Introduction
@@ -62,7 +58,4 @@ http://localhost:3000
 
 ## Conclusion
 Your Todo app should now be running smoothly! Feel free to explore the features and functionalities. For any issues or suggestions, please reach out.
-
----
-
-This version includes proper markdown for headings and code blocks, making it clearer and easier to read.
+------------------------------------------------------------------------------------------------------------------------------------------------------
