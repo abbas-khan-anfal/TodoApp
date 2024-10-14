@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+form
+{
+    padding: 20px;
+    border-radius: 5px;
+}
+.btn
+{
+    background-color: #1b263b;
+    color: #e0e1dd;
+    padding: 5px 10px;
+}
+.btn:hover
+{
+    color: #e0e1dd;
+}
+.btn.redBtn
+{
+    background-color: darkred;
+}
+.label
+{
+    font-size: 15px;
+    color: #415a77;
+}
+.pageHeading
+{
+    font-size: 25px;
+    color: #1b263b;
+}
+.authChangeText
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: #1b263b;
+}
+.authChangeText a
+{
+    color: #415a77;
+    text-decoration: underline;
+}
