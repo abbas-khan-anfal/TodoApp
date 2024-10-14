@@ -1,4 +1,4 @@
-######### MERN Stack Todo App
+# MERN Stack Todo App
 
 
 ## Introduction
@@ -14,7 +14,7 @@ To run this application, ensure you have the following installed on your machine
 
 
 ## Setup Instructions
-### 1. Configure Environment Variables
+### 1. Configure Environment Variables.
 
 Before running the application, create a `.env` file in the root of your backend project and include the following variables:
 ===========
