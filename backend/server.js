@@ -20,7 +20,6 @@ app.use(cors({
   credentials: true,
 }))
 app.use(cookieParser())
-app.use(urlencoded())
 
 // api endpoints
 app.use('/api/v1/user', userRouter)
