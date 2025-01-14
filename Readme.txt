@@ -1,7 +1,3 @@
-Sure! Here’s the updated README:
-
----
-
 # Todo App
 
 A simple web application for managing tasks, featuring full CRUD operations and user authentication. The app consists of a React frontend and a Node.js/Express backend, with data stored in MongoDB Atlas.
